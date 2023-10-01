@@ -1,1 +1,1 @@
-from main import ResourceMonitor
+from .main import ResourceMonitor
