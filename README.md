@@ -1,10 +1,6 @@
 # Resource Monitor
 
 <p align="center">
-  <!-- PyPI -->
-  <a href="https://pypi.org/project/mathtranslate/">
-    <img src="https://img.shields.io/pypi/v/mathtranslate.svg?logo=pypi"/>
-  </a>
   <!-- License -->
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-Apache%202.0-yellow.svg?logo=apache"/>
